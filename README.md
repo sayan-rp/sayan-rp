@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I’m a **Data Analyst cum Project Lead Software Engineer** with a passion for building **audit-friendly, maintainable, and future-proof systems**.  
-My work bridges **analytics, engineering, and AI**, with a strong focus on **clarity, reproducibility, and compliance** in enterprise and GCC contexts.
+I’m a **Data Analyst and Project Lead Software Engineer** who builds **audit-friendly, maintainable, and future-proof systems**.  
+My work sits at the intersection of **analytics, backend engineering, product logic, and applied AI**, with a strong focus on **clarity, reproducibility, and operational trust** in enterprise and GCC contexts.
 
 - 📍 Based in **Kolkata, India**
 - 💼 Experienced in **workflow mapping, modular system design, and cross-environment SQL troubleshooting**
@@ -27,11 +27,17 @@ My work bridges **analytics, engineering, and AI**, with a strong focus on **cla
 ---
 
 ## 🛠️ Skills & Expertise
-- **Databases & Analytics**  
-  - Advanced SQL (MySQL, PostgreSQL)  
-  - Python/Pandas for data pipelines  
-  - Schema design with explicit constraints  
-  - Dynamic metric frameworks & audit-friendly views  
+- **Data, SQL & Analytics Engineering**  
+  - Advanced SQL (PostgreSQL, MySQL) for reporting, validation, and production-grade querying  
+  - Dynamic metric frameworks, audit-friendly views, and traceable data models  
+  - Schema design, normalization strategy, and cross-environment SQL debugging  
+  - Python and Pandas for transformation pipelines, structured data handling, and automation  
+
+- **Backend & AI Engineering**  
+  - Python backend development with Flask and FastAPI  
+  - Agentic AI workflows for form-filling, structured extraction, and guided user interaction  
+  - RAG-style chatbot design for practical business use cases  
+  - Validation logic, schema-driven systems, and modular backend architecture   
 
 - **Engineering & Workflow**  
   - Git workflow automation (PowerShell scripting)  
@@ -47,18 +53,18 @@ My work bridges **analytics, engineering, and AI**, with a strong focus on **cla
 ---
 
 ## 🎯 Current Goals
-- Deploy lightweight, practical **RAG chatbots** (Notes/Task Tracker, CSV→JSON converter)  
-- Make **metric registration and querying fully dynamic** for production deployment  
-- Build a **cost-optimized subscription stack** (Replit Hacker, Microsoft 365, Google One, Amazon Prime)  
-- Systematically allocate **₹2 lakh across diversified investments** for risk-adjusted returns  
+- Deploy lightweight, practical **RAG and workflow-assistant chatbots** for real business use cases  
+- Make **metric registration, querying, and validation fully dynamic** for production deployment  
+- Build **schema-driven internal tools** that remain maintainable as requirements evolve  
+- Continue blending **analytics, backend systems, and AI-assisted workflows** into reliable products  
 
 ---
 
 ## 📈 Interests
-- Elegant, maintainable solutions in code & documentation  
-- Open-source tools and community-driven troubleshooting  
-- AI-powered IDEs and agentic development environments  
-- Personal finance strategies (SIPs, gold accumulation, allocation frameworks)  
+- Elegant, maintainable solutions in code, data models, and documentation  
+- Open-source tools and practical community-driven problem solving  
+- AI-powered IDEs, agentic workflows, and developer productivity systems  
+- Auditability, system clarity, and long-horizon technical design  
 - Mythological branding and playful developer humor  
 
 ---
