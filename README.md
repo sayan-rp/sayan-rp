@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Sayan Sarkar
+# 🌌 Rerir', Racher of Solnari  
+
+*"A wanderer who forges clarity into chaos, weaving systems as enduring as stone and as fluid as water.  
+Bearer of Solnari’s Vision, thy self channels the resonance of elements into code, data, and design."*  
+
+---
 
 <!--
 **sayan-rp/sayan-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
