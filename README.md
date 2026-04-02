@@ -16,17 +16,27 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I’m a **Data Analyst and Project Lead Software Engineer** who builds **audit-friendly, maintainable, and future-proof systems**.  
-My work sits at the intersection of **analytics, backend engineering, product logic, and applied AI**, with a strong focus on **clarity, reproducibility, and operational trust** in enterprise and GCC contexts.
+I’m a Data Analyst + Project Lead Software Engineer who thrives on building audit-friendly, maintainable, and future-proof systems.\
+But under the banner of **Solnari**, I walk like a traveler through *Teyvat* like a *Racher* — blending analytics, backend engineering, and applied AI into artifacts of clarity and trust.
 
-- 📍 Based in **Kolkata, India**
-- 💼 Experienced in **workflow mapping, modular system design, and cross-environment SQL troubleshooting**
-- 🔒 Privacy-conscious, with a disciplined approach to telemetry and digital footprint management
-- ⚡ Driven by **clarity, maintainability, and operational transparency**
+- 💼 Workflow mapper, modular system designer, and SQL troubleshooter
+- 🔒 Privacy-first mindset with disciplined telemetry control
+- ⚡ Powered by clarity, maintainability, and operational transparency
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Artifact Sets (Skills & Expertise)
+<pre>
+- Pyro (Drive):             Backend dev with Flask & FastAPI, modular architecture, and RAG-style chatbot design
+- Electro (Energy):         Python + Pandas pipelines, automation, agentic AI workflows, structured extraction
+- Geo (Structure):          Advanced SQL (PostgreSQL, MySQL), schema design, normalization strategy, and debugging across environments
+- Anemo (Flow):             Git workflow automation (PowerShell scripting), VS Code hygiene, reproducible development practices
+- Dendro (Growth):          Open-source tools, community-driven problem solving, adaptability in evolving tech ecosystems
+- Hydro (Adaptability):     HR system design balancing normalization & flexibility, GCC compliance, and risk analysis
+- Cryo (Clarity):           Audit-ready documentation, operational clarity, risk analysis, and compliance strategy
+</pre>
+
+<!--
 - **Data, SQL & Analytics Engineering**  
   - Advanced SQL (PostgreSQL, MySQL) for reporting, validation, and production-grade querying  
   - Dynamic metric frameworks, audit-friendly views, and traceable data models  
@@ -49,18 +59,19 @@ My work sits at the intersection of **analytics, backend engineering, product lo
   - HR system design balancing normalization & flexibility  
   - GCC compliance, employee risk analysis, and business strategy  
   - Audit-ready documentation and operational clarity  
+-->
 
 ---
 
-## 🎯 Current Goals
-- Deploy lightweight, practical **RAG and workflow-assistant chatbots** for real business use cases  
-- Make **metric registration, querying, and validation fully dynamic** for production deployment  
-- Build **schema-driven internal tools** that remain maintainable as requirements evolve  
-- Continue blending **analytics, backend systems, and AI-assisted workflows** into reliable products  
+## 🎯 Traveler's Logs (Current Goals)
+- Clear the *Domain of Dynamic Metrics*: make metric registration & querying fully dynamic for production deployment  
+- Refine the *Artifact of Schema Evolution*: build internal tools that evolve gracefully with requirements  
+- Unlock *Resonance of AI + Analytics*: fuse backend systems and AI workflows into reliable products  
+- Deploy *Companions of Clarity*: lightweight RAG + workflow-assistant chatbots for real-world quests  
 
 ---
 
-## 📈 Interests
+## 📈 Vision Resonance (Interests)
 - Elegant, maintainable solutions in code, data models, and documentation  
 - Open-source tools and practical community-driven problem solving  
 - AI-powered IDEs, agentic workflows, and developer productivity systems  
@@ -69,18 +80,22 @@ My work sits at the intersection of **analytics, backend engineering, product lo
 
 ---
 
-## 🐾 Fun Side
-- I enjoy blending **mythic symbolism** into branding and developer identity.  
-- I explore practical consumer research — from **custom helmet design** to **cosplay legality**.  
-- I thrive on **layered analysis**: whether it’s SQL schemas, HR strategy, or world affairs.
+## 🐾 Traveler’s Tales (Fun Side)
+- 🎮 Mythic Humor: I enjoy blending **mythic symbolism** into branding and developer identity (think Vision resonance in Teyvat).
+- 🛠️ Tinkerer Spirit: I experiment with custom hardware setups, always balancing creativity with safety compliance.
+- 🌍 Lore Keeper: I thrive on **layered analysis**: whether it’s SQL schemas, HR strategy, or world affairs — like piecing together lore fragments.
 
 ---
 
-## 📬 Connect
-- 💻 GitHub: [Your GitHub Profile Link]  
-- 🔗 LinkedIn: [Your LinkedIn Profile Link]  
-- ✉️ Email: [Your Professional Email]
+## 🌠 Genshin Impact References  
+- **Vision Alignment**: My guiding principle is *Clarity as my Vision*.  
+- **Artifacts & Builds**: Each repo is an artifact piece — together they form my build.  
+- **Domains & Bosses**: Debugging challenges are domains I’ve cleared; production bugs are bosses I’ve defeated.  
+- **Traveler’s Path**: My ongoing projects are logged like quests in a Traveler’s journal.  
+- **Elemental Resonance**: My skills resonate across elements — Geo for structure, Electro for energy, Hydro for adaptability.  
 
 ---
 
-> *“Audit-friendly systems aren’t just about compliance — they’re about clarity, reproducibility, and trust.”*
+> *“Audit-friendly systems aren’t just compliance — they’re clarity, reproducibility, and trust. Like artifacts forged in Solnari, they endure.”*
+
+---
